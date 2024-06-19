@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋  
+
+ - 💻   **I want to be a programmer**    
+
+ - 💻   **I want to be a datascientist** 
+
 
 <!--
 **Jangdb/Jangdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
